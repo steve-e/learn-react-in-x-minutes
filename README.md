@@ -1,3 +1,8 @@
+# Simple Todo app
+Created by following along on [Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
+
+## Default docs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
